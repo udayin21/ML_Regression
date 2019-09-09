@@ -10,7 +10,7 @@ Data will soon be made available and is available at this [internal link](http:/
 `python Q2/locallyweighted.py`
 #### Logistic Regression:
 `python Q3/logistic.py`
-#### GDA
+#### GDA:
 `python Q4/gda.py`
 
 ### Dependencies
